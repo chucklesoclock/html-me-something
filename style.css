@@ -18,6 +18,23 @@ iframe {
 	padding-right: 1%;
 }
 
+a {
+	color: green;
+}
+
 h4 {
 	text-align: center;
+}
+
+h4 a {
+	color: navy;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+div {
+	color: gray;
 }
