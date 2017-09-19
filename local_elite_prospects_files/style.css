@@ -1,0 +1,248 @@
+BODY
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial;
+    TEXT-DECORATION: none;
+	scrollbar-3d-light-color : #000000;
+    scrollbar-arrow-color : #000000;
+    scrollbar-base-color : #000000;
+    scrollbar-dark-shadow-color : white;
+    scrollbar-face-color : white;
+    scrollbar-highlight-color : white;
+    scrollbar-shadow-color : #999999;
+	
+}
+A IMG
+{
+   BORDER: 0;
+}
+
+A:link
+{
+    FONT-SIZE: 9pt;
+    COLOR: #336699;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-SIZE: 9pt;
+    COLOR: #336699;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    FONT-SIZE: 9pt;
+    COLOR: powderblue;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-SIZE: 9pt;
+    COLOR: cornflowerblue;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+.white
+{
+    BACKGROUND-COLOR: white
+}
+.gray
+{
+    BACKGROUND-COLOR: aliceblue
+}
+.link
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 7.5pt;
+    MARGIN-LEFT: 4px;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+P
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+	
+}
+
+H1
+{
+    font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 19pt;
+ color: #333;
+ vertical-align:middle;
+}
+H2
+{
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+TD
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+	
+}
+.Sweden
+{
+    COLOR: fuchsia
+}
+.ejSweden
+{
+    COLOR: black
+}
+.borderimage {
+ border: 1px solid black; 
+}
+.mitten_meny
+{
+    FONT-SIZE: 9pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+.tableborder
+{
+    BORDER-LEFT: 1px solid #999999; 
+	BORDER-RIGHT: 1px solid #999999; 
+	BORDER-TOP: 1px solid #999999; 
+	BORDER-BOTTOM: 1px solid #999999;
+	
+}
+
+.button
+{
+    
+	background-color: #999999;
+    BORDER-BOTTOM: solid 1px;
+    BORDER-LEFT: solid 1px;
+    BORDER-RIGHT: solid 1px;
+    BORDER-TOP: solid 1px;
+	border-color: black; 
+	
+	CURSOR: hand;
+    font-family:"Verdana","Arial",sans-serif;
+	COLOR: #FFFFFF;
+    FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+}
+
+
+
+.trbackground {
+	background-color: #999999;
+	background-image: url("https://files.eliteprospects.com/layout/bgcolor2.png");
+}
+.tdbackground {
+	FONT-SIZE: 9pt;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+    .commentlink {
+        display: inline-block;
+        background: url("https://files.eliteprospects.com/layout/icon_comment_bubble.png") no-repeat 0 0;
+        width:22px;
+        height:13px;
+        text-align: center;
+		
+       
+    }
+.transferbutton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9) );
+	background:-moz-linear-gradient( center top, #f9f9f9 5%, #e9e9e9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+	background-color:#f9f9f9;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:25px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.transferbutton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9) );
+	background:-moz-linear-gradient( center top, #e9e9e9 5%, #f9f9f9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+	background-color:#e9e9e9;
+}.transferbutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+@font-face {
+ font-family: MyCustomFont;
+ src: url("https://files.eliteprospects.com/layout/oswald.eot") /* EOT file for IE */
+}
+
+@font-face {
+ font-family: MyCustomFont;
+ src: url("https://files.eliteprospects.com/layout/oswald.ttf") /* TTF file for CSS3 browsers */
+}
+
+#fontHeader{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 19pt;
+ color: #333;
+ vertical-align:middle;
+}
+#fontMainlink{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 14pt;
+}
+#fontSections{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 12pt;
+ letter-spacing: 1px;
+ color: #666;
+}
+#fontSmall{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ letter-spacing: 1px;
+ FONT-SIZE: 9pt;
+}
+#fontSmall2{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 9pt;
+ letter-spacing: 1px;
+ color: #666;
+}
+#fontSmallLink{
+ font-family: MyCustomFont, Verdana, Arial, sans-serif;
+ FONT-SIZE: 9pt;
+ letter-spacing: 1px;
+
+}
