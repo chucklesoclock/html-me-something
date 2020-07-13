@@ -6,5 +6,5 @@ Either puruse the files, download/clone to your computer, and open `index.html` 
 
 or 
 
-Use [**GitHub & BitBucket HTML Preview**](http://htmlpreview.github.io/) functionality and click the [repo website link](https://goo.gl/iGGfMV) above or follow its longer version:
+Use [**GitHub & BitBucket HTML Preview**](http://htmlpreview.github.io/) functionality and click the [Google shortened URL](https://goo.gl/iGGfMV) or follow its longer version:
 - http://htmlpreview.github.io/?https://raw.githubusercontent.com/chucklesoclock/html-me-something/master/index.html
