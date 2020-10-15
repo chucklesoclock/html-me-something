@@ -2,18 +2,23 @@ td {
 	width: 45%;
 	padding-right:2.5%;
 	padding-left: 2.5%;
+	height: 100%;
 }
 
 iframe {
 	width: 100%;
+	height: auto;
+	clip-path: inset(0% 0% 10% 0%);
 }
 
 .article {
 	width: 100%;
+	height: auto;
 }
 
 #banner {
 	width: 98%;
+	height: auto;
 	padding-left: 1%;
 	padding-right: 1%;
 }
@@ -22,7 +27,7 @@ a {
 	color: green;
 }
 
-h4 {
+#stats_header {
 	text-align: center;
 }
 
