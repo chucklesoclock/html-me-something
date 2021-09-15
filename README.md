@@ -2,7 +2,7 @@
 Small website to test CSS and HTML skills. Features dynamic rescaling via CSS. 
 
 ## To view
-Either puruse the files, download/clone to your computer, and open `index.html` in your local browswer
+Either peruse the files, download/clone to your computer, and open `index.html` in your local browswer
 
 or 
 
